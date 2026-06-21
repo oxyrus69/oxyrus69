@@ -38,12 +38,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxyrus69&show_icons=true&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
+[![GitHub Stats](https://github-readme-stats-one-wine-58.vercel.app/api?username=oxyrus69&show_icons=true&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oxyrus69&theme=radium&hide_border=true&stroke=0000&ring=00796B&fire=00796B)](https://github.com/oxyrus69)
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxyrus69&layout=compact&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
+[![Top Languages](https://github-readme-stats-one-wine-58.vercel.app/api/top-langs/?username=oxyrus69&layout=compact&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
 
 </div>
 
