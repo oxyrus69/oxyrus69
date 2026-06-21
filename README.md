@@ -12,7 +12,7 @@
 
 - 🔭 Saat ini sedang fokus mengembangkan: **Sistem Web Modern, Integrasi API, & Arsitektur Peladen**
 - 🌱 Sedang mempelajari: **Optimasi Performa Web & Keamanan Infrastruktur**
-- 💬 Tanyakan padaku tentang: **Laravel, Next.js, Pengelolaan Database, & cPanel**
+- 💬 Suka penasaran tentang: **Laravel, Next.js, Pengelolaan Database, & cPanel**
 - ⚡ Fakta unik: *Bisa menemukan "bug" di baris kode ke-1000 hanya dengan mengandalkan insting (dan secangkir kopi).*
 
 <br>
@@ -38,7 +38,7 @@
 
 Saat ini saya banyak menghabiskan waktu berkreasi di balik layar, membangun sistem yang solid dan dapat diandalkan. Area spesialisasi saya meliputi:
 
-*   **Open Journal Systems (OJS):** Pemecahan masalah teknis tingkat peladen dan penyesuaian arsitektur antarmuka (UI/UX), termasuk kustomisasi struktur tingkat lanjut seperti pada tema **Arjuna** yang berbasis **Bootstrap 3**.
+*   **Open Journal Systems (OJS):** Pemecahan masalah teknis tingkat peladen dan penyesuaian arsitektur antarmuka (UI/UX), termasuk kustomisasi struktur tingkat lanjut dan handle sistem yang terkena **peretasan**.
 *   **Sistem Web Berbasis PHP:** Merancang arsitektur aplikasi menggunakan **Laravel** di sisi *back-end* yang diintegrasikan dengan kerangka kerja modern seperti **Vue.js** untuk kelancaran manajemen data.
 
 <br>
