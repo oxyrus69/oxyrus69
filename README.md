@@ -36,14 +36,16 @@
 
 ### 📊 Statistik GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxyrus69&show_icons=true&theme=radium&hide_border=true&title_color=00796B" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxyrus69&theme=radium&hide_border=true&stroke=0000&ring=00796B&fire=00796B" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxyrus69&layout=compact&theme=radium&hide_border=true&title_color=00796B" alt="Top Languages" width="50%" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxyrus69&show_icons=true&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oxyrus69&theme=radium&hide_border=true&stroke=0000&ring=00796B&fire=00796B)](https://github.com/oxyrus69)
+
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxyrus69&layout=compact&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
+
+</div>
 
 <hr>
 
