@@ -34,19 +34,20 @@
 
 <br>
 
-### 📊 Statistik GitHub
+### 💼 Fokus & Spesialisasi Utama
 
-<div align="center">
+Saat ini saya banyak menghabiskan waktu berkreasi di balik layar, membangun sistem yang solid dan dapat diandalkan. Area spesialisasi saya meliputi:
 
-[![GitHub Stats](https://github-readme-stats-one-wine-58.vercel.app/api?username=oxyrus69&show_icons=true&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oxyrus69&theme=radium&hide_border=true&stroke=0000&ring=00796B&fire=00796B)](https://github.com/oxyrus69)
+*   **Open Journal Systems (OJS):** Pemecahan masalah teknis tingkat peladen dan penyesuaian arsitektur antarmuka (UI/UX), termasuk kustomisasi struktur tingkat lanjut seperti pada tema **Arjuna** yang berbasis **Bootstrap 3**.
+*   **Sistem Web Berbasis PHP:** Merancang arsitektur aplikasi menggunakan **Laravel** di sisi *back-end* yang diintegrasikan dengan kerangka kerja modern seperti **Vue.js** untuk kelancaran manajemen data.
 
 <br>
 
-[![Top Languages](https://github-readme-stats-one-wine-58.vercel.app/api/top-langs/?username=oxyrus69&layout=compact&theme=radium&hide_border=true&title_color=00796B)](https://github.com/oxyrus69)
+### 🖋️ Filosofi Kode
 
-</div>
+> *"He who has a why to live for can bear almost any how."* — **Friedrich Nietzsche**
+
+Bagi saya, rekayasa perangkat lunak bukanlah sekadar perlombaan kecepatan, melainkan sebuah proses panjang dan sunyi untuk merakit logika. Saya percaya bahwa membangun keterampilan yang tajam membutuhkan waktu, ketekunan, dan ruang yang tenang. Setiap baris kode yang ditulis adalah sebuah langkah kecil dalam perjalanan panjang untuk menguasai sebuah seni keahlian.
 
 <hr>
 
